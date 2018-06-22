@@ -38,7 +38,7 @@ body {
 }
 .display-7 {
   font-family: 'Comfortaa', sans-serif;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -1074,7 +1074,7 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Comfortaa', sans-serif;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
@@ -1638,7 +1638,7 @@ body {
   bottom: 0;
   transform: scale(0);
   transition-duration: 0.3s;
-  background: linear-gradient(45deg, #ffa0a4, #a38dfd);
+  background: linear-gradient(45deg, #ffef00, #ffa0a4);
   border-radius: 50%;
 }
 .cid-qVHoedzaBT .underline {
@@ -1886,7 +1886,7 @@ body {
 .cid-qVHojee0tO {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #000000;
+  background-color: #a8b5c9;
 }
 .cid-qVHojee0tO .container-fluid {
   padding: 0 3rem;
