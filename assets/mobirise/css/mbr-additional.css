@@ -1886,7 +1886,7 @@ body {
 .cid-qVHojee0tO {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #a8b5c9;
+  background-color: #000000;
 }
 .cid-qVHojee0tO .container-fluid {
   padding: 0 3rem;
@@ -1901,6 +1901,7 @@ body {
 }
 .cid-qVHojee0tO .mbr-section-title {
   margin-bottom: 2rem;
+  color: #a8b5c9;
 }
 .cid-qVHojee0tO .social-media {
   margin-top: 1.5rem;
@@ -1953,4 +1954,7 @@ body {
   .cid-qVHojee0tO .mbr-list li {
     margin-bottom: .5rem;
   }
+}
+.cid-qVHojee0tO .mbr-offer {
+  color: #a8b5c9;
 }
