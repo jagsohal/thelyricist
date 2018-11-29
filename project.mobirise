@@ -235,6 +235,31 @@
           "_anchor": "call5-8"
         },
         {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/smartmockups-jipvhh3n-1400x1008.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/HnPYeBJ9JCc"
+            }
+          },
+          "text": "<b>BOB DYLAN</b> - SUBTERRANEAN HOMESICK BLUES",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-f"
+        },
+        {
           "_styles": {
             ".mbr-section-title": {
               "font-weight": "700"
@@ -318,11 +343,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-06-25-at-11.03.26-116x128.png",
+              "src": "@PROJECT_PATH@/assets/images/3r432434343-116x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -360,60 +386,6 @@
           ],
           "_name": "footer7",
           "_anchor": "footer7-a"
-        },
-        {
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/smartmockups-jipvhh3n-1400x1008.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/HnPYeBJ9JCc"
-            }
-          },
-          "text": "<b>BOB DYLAN</b> - SUBTERRANEAN HOMESICK BLUES",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-f"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "countdown": "2018/12/12",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/05.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#ecf0f1",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#ecf0f1",
-            "overlayOpacity": 0.75
-          },
-          "title": "Time remaining",
-          "text": "We are due to open shop before Christmas - so get your orders in now",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "countdown1",
-          "_anchor": "countdown1-g"
         }
       ]
     }
