@@ -25,13 +25,13 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "favicon": "@PROJECT_PATH@/assets/images/3r432434343-128x142.png",
+    "favicon": "@PROJECT_PATH@/assets/images/2222222-128x142.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
     "gdpr": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 18,
+    "uniqCompNum": 19,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -64,10 +64,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -109,7 +109,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#2c3e50",
-            "fontSize": "0.95",
+            "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -118,7 +118,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/3r432434343-116x128.png",
+              "src": "@PROJECT_PATH@/assets/images/2222222-116x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -224,7 +224,7 @@
             "overlayOpacity": 0.7
           },
           "title": "Ready to get started?",
-          "text": "Please get in contact for any orders and questions",
+          "text": "Please get in contact for your order and questions",
           "text1": "Choose your words carefully<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fm.me%2FTheLyricistUK%3Ffbclid%3DIwAR1YQ-0MfnTQ8zXPhxMBcEkD5DeN6T8NJAxykNI1nZ5C2qQI7JJjD3EpUvs&amp;h=AT22jqwyax-eDVq62JXGC1RefCrwbX57ZPxKJH_cY0_KmZeC3M9YG3QdRxXPTS_oONGW6T5sy5iKCUgdwIVi6oR1HR0GxIFV9f5-Oq7eH6iZr9CiBIECt09sY2b2LFEpalqCHhmqdvfwR-kVBj9314xG\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MESSAGE US</a>",
           "alias": "colorm/components",
@@ -343,12 +343,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/3r432434343-116x128.png",
+              "src": "@PROJECT_PATH@/assets/images/2222222-116x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
