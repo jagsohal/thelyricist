@@ -793,15 +793,12 @@ blockquote {
   text-transform: uppercase;
   margin-bottom: 0;
 }
-#features15-h .mbr-section-title {
-  font-weight: 700;
+#custom-html-j {
+  /* Type valid CSS here */
 }
-#features15-h .display-6 {
-  text-transform: none;
-  letter-spacing: 0px;
-  font-weight: 400;
-  color: #fff;
+#custom-html-j .my-image {
+  width: 100%;
 }
-#features15-h .mbr-cards-row {
-  margin-top: 40px;
+#image1-f DIV {
+  color: #000000;
 }
