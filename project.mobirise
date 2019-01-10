@@ -104,7 +104,7 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
@@ -114,7 +114,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">BUY NOW</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -193,7 +193,7 @@
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "title": "<br>T H E&nbsp;<div>L Y R I C I S T</div>",
           "text": "Choose your words carefully",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#call5-8\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#call5-8\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -223,10 +223,10 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.7
           },
-          "title": "Ready to get started?",
+          "title": "Ready to start?",
           "text": "Please get in contact for your order and questions",
-          "text1": "Get your first print FREE<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fm.me%2FTheLyricistUK%3Ffbclid%3DIwAR1YQ-0MfnTQ8zXPhxMBcEkD5DeN6T8NJAxykNI1nZ5C2qQI7JJjD3EpUvs&amp;h=AT22jqwyax-eDVq62JXGC1RefCrwbX57ZPxKJH_cY0_KmZeC3M9YG3QdRxXPTS_oONGW6T5sy5iKCUgdwIVi6oR1HR0GxIFV9f5-Oq7eH6iZr9CiBIECt09sY2b2LFEpalqCHhmqdvfwR-kVBj9314xG\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MESSAGE US</a>",
+          "text1": "Just Facebook message us with your order. We will do the rest.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fm.me%2FTheLyricistUK%3Ffbclid%3DIwAR1YQ-0MfnTQ8zXPhxMBcEkD5DeN6T8NJAxykNI1nZ5C2qQI7JJjD3EpUvs&amp;h=AT22jqwyax-eDVq62JXGC1RefCrwbX57ZPxKJH_cY0_KmZeC3M9YG3QdRxXPTS_oONGW6T5sy5iKCUgdwIVi6oR1HR0GxIFV9f5-Oq7eH6iZr9CiBIECt09sY2b2LFEpalqCHhmqdvfwR-kVBj9314xG\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MESSAGE US</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
