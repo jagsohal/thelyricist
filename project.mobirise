@@ -31,7 +31,7 @@
     "cookiesAlert": "",
     "gdpr": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 21,
+    "uniqCompNum": 22,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -207,7 +207,7 @@
             "paddingTop": "2",
             "paddingBottom": "1",
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": true,
             "showText1": true,
             "bgImageRadio": false,
@@ -225,7 +225,7 @@
           },
           "title": "Ready to get started?",
           "text": "Please get in contact for your order and questions",
-          "text1": "Choose your words carefully<br>",
+          "text1": "Get your first print FREE<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fm.me%2FTheLyricistUK%3Ffbclid%3DIwAR1YQ-0MfnTQ8zXPhxMBcEkD5DeN6T8NJAxykNI1nZ5C2qQI7JJjD3EpUvs&amp;h=AT22jqwyax-eDVq62JXGC1RefCrwbX57ZPxKJH_cY0_KmZeC3M9YG3QdRxXPTS_oONGW6T5sy5iKCUgdwIVi6oR1HR0GxIFV9f5-Oq7eH6iZr9CiBIECt09sY2b2LFEpalqCHhmqdvfwR-kVBj9314xG\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MESSAGE US</a>",
           "alias": "colorm/components",
           "_tags": [
@@ -237,14 +237,14 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<iframe src=\"https://pasteapp.com/p/ttyYZdeSX64/embed\" width=\"100%\" height=\"880\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"\"></iframe>",
+          "_customHTML": "<iframe src=\"https://pasteapp.com/p/RaeQ6KUpvTv/embed\" width=\"100%\" height=\"780\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-j",
+          "_anchor": "custom-html-k",
           "_PHPplaceholders": [],
           "_JSplaceholders": []
         },
@@ -281,16 +281,14 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<iframe src=\"https://pasteapp.com/p/RaeQ6KUpvTv/embed\" width=\"100%\" height=\"780\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n",
+          "_customHTML": "<iframe src=\"https://pasteapp.com/p/ttyYZdeSX64/embed\" width=\"100%\" height=\"880\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"\"></iframe>",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-k",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_anchor": "custom-html-l"
         },
         {
           "_styles": {},
