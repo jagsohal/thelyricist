@@ -802,3 +802,9 @@ blockquote {
 #image1-f DIV {
   color: #000000;
 }
+#custom-html-k {
+  /* Type valid CSS here */
+}
+#custom-html-k .my-image {
+  width: 100%;
+}
