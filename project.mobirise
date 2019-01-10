@@ -10,7 +10,7 @@
         "buttonsColor": "#000000",
         "secondaryColor": "#9b59b6",
         "successColor": "#2ecc71",
-        "infoColor": "#3498db",
+        "infoColor": "#2d709e",
         "warningColor": "#f1c40f",
         "dangerColor": "#e74c3c",
         "titleFont": "Arvo",
@@ -20,7 +20,9 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#2d709e"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
@@ -114,7 +116,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">BUY NOW</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#custom-html-l\">BUY NOW</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -193,7 +195,7 @@
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "title": "<br>T H E&nbsp;<div>L Y R I C I S T</div>",
           "text": "Choose your words carefully",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#call5-8\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#call5-8\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fm.me%2FTheLyricistUK%3Ffbclid%3DIwAR1YQ-0MfnTQ8zXPhxMBcEkD5DeN6T8NJAxykNI1nZ5C2qQI7JJjD3EpUvs&amp;h=AT22jqwyax-eDVq62JXGC1RefCrwbX57ZPxKJH_cY0_KmZeC3M9YG3QdRxXPTS_oONGW6T5sy5iKCUgdwIVi6oR1HR0GxIFV9f5-Oq7eH6iZr9CiBIECt09sY2b2LFEpalqCHhmqdvfwR-kVBj9314xG\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FACEBOOK MESSAGE</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -258,19 +260,26 @@
           "_anchor": "custom-html-l"
         },
         {
-          "_styles": {},
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-text": {
+              "color": "#ffffff"
+            }
+          },
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showText1": true,
+            "showText1": false,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/07.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#3498db",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
@@ -281,8 +290,8 @@
           },
           "title": "Ready to start?",
           "text": "Just Facebook message us with your order. We will do the rest.",
-          "text1": "Thanking You",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fm.me%2FTheLyricistUK%3Ffbclid%3DIwAR1YQ-0MfnTQ8zXPhxMBcEkD5DeN6T8NJAxykNI1nZ5C2qQI7JJjD3EpUvs&amp;h=AT22jqwyax-eDVq62JXGC1RefCrwbX57ZPxKJH_cY0_KmZeC3M9YG3QdRxXPTS_oONGW6T5sy5iKCUgdwIVi6oR1HR0GxIFV9f5-Oq7eH6iZr9CiBIECt09sY2b2LFEpalqCHhmqdvfwR-kVBj9314xG\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MESSAGE US</a>",
+          "text1": "aaa",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fm.me%2FTheLyricistUK%3Ffbclid%3DIwAR1YQ-0MfnTQ8zXPhxMBcEkD5DeN6T8NJAxykNI1nZ5C2qQI7JJjD3EpUvs&amp;h=AT22jqwyax-eDVq62JXGC1RefCrwbX57ZPxKJH_cY0_KmZeC3M9YG3QdRxXPTS_oONGW6T5sy5iKCUgdwIVi6oR1HR0GxIFV9f5-Oq7eH6iZr9CiBIECt09sY2b2LFEpalqCHhmqdvfwR-kVBj9314xG\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MESSAGE US</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -338,11 +347,11 @@
           "text33": "Service",
           "text34": "Starter pack",
           "text35": "FAQ",
-          "titled1": "Private policy",
-          "titled2": "Terms & Conditions",
-          "titled3": "Copyright Notifications",
+          "titled1": "LYRICS",
+          "titled2": "FRAMES",
+          "titled3": "SIZES",
           "followtext": "follow us",
-          "text": "Copyright (c) 2018 - <a href=\"http://justjag.me.uk\" target=\"_blank\">JUSTJAG</a>",
+          "text": "Copyright (c) 2018 - A&nbsp;<a href=\"http://justjag.me.uk\" target=\"_blank\">JUSTJAG</a>&nbsp;PROJECT",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(52, 152, 219);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(231, 76, 60);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(46, 204, 113);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
