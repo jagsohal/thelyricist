@@ -6,8 +6,8 @@
       "name": "colorm",
       "title": "ColorM",
       "styling": {
-        "primaryColor": "#f39c12",
-        "buttonsColor": "#000000",
+        "primaryColor": "#2d709e",
+        "buttonsColor": "#ecf0f1",
         "secondaryColor": "#9b59b6",
         "successColor": "#2ecc71",
         "infoColor": "#2d709e",
@@ -21,7 +21,8 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#2d709e"
+        "#2d709e",
+        "#fc2a1c"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -33,7 +34,7 @@
     "cookiesAlert": "",
     "gdpr": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 22,
+    "uniqCompNum": 23,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -100,7 +101,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f39c12!important"
+              "color": "#2d709e!important"
             }
           },
           "_params": {
@@ -116,7 +117,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"index.html#custom-html-l\">BUY NOW</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-l\">OVERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#call5-8\">BUY NOW</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -195,57 +196,13 @@
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "title": "<br>T H E&nbsp;<div>L Y R I C I S T</div>",
           "text": "Choose your words carefully",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#call5-8\" data-toolbar=\"-mbrBtnMove\">BUY NOW</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fm.me%2FTheLyricistUK%3Ffbclid%3DIwAR1YQ-0MfnTQ8zXPhxMBcEkD5DeN6T8NJAxykNI1nZ5C2qQI7JJjD3EpUvs&amp;h=AT22jqwyax-eDVq62JXGC1RefCrwbX57ZPxKJH_cY0_KmZeC3M9YG3QdRxXPTS_oONGW6T5sy5iKCUgdwIVi6oR1HR0GxIFV9f5-Oq7eH6iZr9CiBIECt09sY2b2LFEpalqCHhmqdvfwR-kVBj9314xG\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FACEBOOK MESSAGE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#call5-8\" data-toolbar=\"-mbrBtnMove\">GALLERY</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fm.me%2FTheLyricistUK%3Ffbclid%3DIwAR1YQ-0MfnTQ8zXPhxMBcEkD5DeN6T8NJAxykNI1nZ5C2qQI7JJjD3EpUvs&amp;h=AT22jqwyax-eDVq62JXGC1RefCrwbX57ZPxKJH_cY0_KmZeC3M9YG3QdRxXPTS_oONGW6T5sy5iKCUgdwIVi6oR1HR0GxIFV9f5-Oq7eH6iZr9CiBIECt09sY2b2LFEpalqCHhmqdvfwR-kVBj9314xG\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FACEBOOK MESSAGE</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
           "_name": "header4",
           "_anchor": "header4-1"
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<iframe src=\"https://pasteapp.com/p/RaeQ6KUpvTv/embed\" width=\"100%\" height=\"780\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-k",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/smartmockups-jipvhh3n-1400x1008.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/HnPYeBJ9JCc"
-            }
-          },
-          "text": "<b>BOB DYLAN</b> - SUBTERRANEAN HOMESICK BLUES",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-f",
-          "_styles": {
-            "DIV": {
-              "color": "#000000"
-            }
-          }
         },
         {
           "_customTemplate": true,
@@ -288,16 +245,46 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.7
           },
-          "title": "Ready to start?",
-          "text": "Just Facebook message us with your order. We will do the rest.",
-          "text1": "aaa",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fm.me%2FTheLyricistUK%3Ffbclid%3DIwAR1YQ-0MfnTQ8zXPhxMBcEkD5DeN6T8NJAxykNI1nZ5C2qQI7JJjD3EpUvs&amp;h=AT22jqwyax-eDVq62JXGC1RefCrwbX57ZPxKJH_cY0_KmZeC3M9YG3QdRxXPTS_oONGW6T5sy5iKCUgdwIVi6oR1HR0GxIFV9f5-Oq7eH6iZr9CiBIECt09sY2b2LFEpalqCHhmqdvfwR-kVBj9314xG\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MESSAGE US</a>",
+          "title": "Bespoke?",
+          "text": "Use one of the options below to start your order. <br><br>Bespoke options available. <br><b>Lyrics / Colour / Size</b><br>",
+          "text1": "Thanks",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://l.facebook.com/l.php?u=https%3A%2F%2Fm.me%2FTheLyricistUK%3Ffbclid%3DIwAR1YQ-0MfnTQ8zXPhxMBcEkD5DeN6T8NJAxykNI1nZ5C2qQI7JJjD3EpUvs&amp;h=AT22jqwyax-eDVq62JXGC1RefCrwbX57ZPxKJH_cY0_KmZeC3M9YG3QdRxXPTS_oONGW6T5sy5iKCUgdwIVi6oR1HR0GxIFV9f5-Oq7eH6iZr9CiBIECt09sY2b2LFEpalqCHhmqdvfwR-kVBj9314xG\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MESSAGE US</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSf2QQCGodWBhKoLFlf_a7Mbk2R0ILWcNA1LJm7Pre2cw7aN8g/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ONLINE FORM</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
           "_name": "call5",
           "_anchor": "call5-8"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/smartmockups-jipvhh3n-1400x1008.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/HnPYeBJ9JCc"
+            }
+          },
+          "text": "<b>BOB DYLAN</b> - SUBTERRANEAN HOMESICK BLUES",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-f",
+          "_styles": {
+            "DIV": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_styles": {},
@@ -352,7 +339,7 @@
           "titled3": "SIZES",
           "followtext": "follow us",
           "text": "Copyright (c) 2018 - A&nbsp;<a href=\"http://justjag.me.uk\" target=\"_blank\">JUSTJAG</a>&nbsp;PROJECT",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(52, 152, 219);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(231, 76, 60);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(46, 204, 113);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"fa fa-facebook-square mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(52, 152, 219);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(231, 76, 60);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(46, 204, 113);\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 128, 185);\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
